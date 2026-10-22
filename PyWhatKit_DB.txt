@@ -1,0 +1,85 @@
+Date: 22/5/2026
+Time: 12:24
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:25
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:27
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:28
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:28
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:36
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:37
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:38
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:39
+Phone Number: +9622085259
+Message: Este es un mensaje de prueba para probar el funcuionamiento de notificaciones de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 12:58
+Phone Number: +9621213847
+Message: esta es la prueba numero 2 para el mensaje de whatsApp
+--------------------
+Date: 22/5/2026
+Time: 13:3
+Phone Number: +9621213847
+Message: este es la prueba numero 3
+--------------------
+Date: 22/5/2026
+Time: 13:4
+Phone Number: +9621213847
+Message: este es la prueba numero 4
+--------------------
+Date: 22/5/2026
+Time: 13:16
+Phone Number: +9623093943
+Message: esta es una prueba de notificacion via whatsApp hecha en python
+--------------------
+Date: 22/5/2026
+Time: 13:17
+Phone Number: +9621213847
+Message: esta es una prueba de notificacion via whatsApp hecha en python
+--------------------
+Date: 22/5/2026
+Time: 14:10
+Phone Number: +9623093943
+Message: esta es una prueba de notificacion via whatsApp hecha en python
+--------------------
+Date: 22/5/2026
+Time: 14:11
+Phone Number: +9621213847
+Message: esta es una prueba de notificacion via whatsApp hecha en python
+--------------------
+Date: 22/5/2026
+Time: 14:12
+Phone Number: +9622183105
+Message: esta es una prueba de notificacion via whatsApp hecha en python
+--------------------

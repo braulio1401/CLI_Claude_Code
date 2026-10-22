@@ -22,6 +22,10 @@ dependencies = [
     "openai>=2.36.0",
     "loguru>=0.7.0",
     "aiohttp>=3.13.4",
+    "openpyxl>=3.1.0",
+    "pywhatkit>=5.0",
+    "reportlab>=4.0.0",
+    "pypdf>=3.0.0",
 ]
 
 [project.scripts]
@@ -29,6 +33,9 @@ fcc-server = "cli.entrypoints:serve"
 free-claude-code = "cli.entrypoints:serve"
 fcc-init = "cli.entrypoints:init"
 fcc-claude = "cli.entrypoints:launch_claude"
+notifications-app = "students_notifications.app:main"
+notifications-gui = "desktop_launcher:main"
+invoice-converter = "invoice_converter.app:main"
 
 [project.optional-dependencies]
 voice = [
@@ -44,7 +51,7 @@ voice_local = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["api", "cli", "config", "core", "messaging", "providers"]
+packages = ["api", "cli", "config", "core", "messaging", "providers", "students_notifications", "invoice_converter"]
 
 [tool.hatch.build.targets.wheel.force-include]
 ".env.example" = "cli/env.example"

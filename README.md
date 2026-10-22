@@ -120,6 +120,22 @@ The default model is already set to `nvidia_nim/z-ai/glm4.7`. You can change it 
 fcc-claude
 ```
 
+## Desktop GUI for Notifications
+
+The repository includes a ready-made desktop launcher for the notifications app.
+
+- Double-click `run_notifications.bat` in the project root.
+- This activates the local `.venv` if present and starts the GUI.
+
+If you prefer a single `.exe`, you can package the app with PyInstaller:
+
+```powershell
+uv run pip install pyinstaller
+uv run pyinstaller --onefile --windowed desktop_launcher.py
+```
+
+The generated executable will be placed in `dist\desktop_launcher.exe`.
+
 `fcc-claude` reads the current configured port and auth token each time it starts, sets the Claude Code environment variables (including a 190k-token `CLAUDE_CODE_AUTO_COMPACT_WINDOW` for auto-compaction), and then launches the real `claude` command.
 
 ## Choose A Provider
